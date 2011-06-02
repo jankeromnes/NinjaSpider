@@ -1,0 +1,33 @@
+   _______ _     _ _______      _______ _  _  _ _______ _______  _____  _______ _______
+      |    |_____| |______      |_____| |  |  | |______ |______ |     | |  |  | |______
+      |    |     | |______      |     | |__|__| |______ ______| |_____| |  |  | |______
+
+  888b    888 d8b           d8b           .d8888b.           d8b      888
+  8888b   888 Y8P           Y8P          d88P  Y88b          Y8P      888
+  88888b  888                            Y88b.                        888
+  888Y88b 888 888 88888b.  8888  8888b.   "Y888b.   88888b.  888  .d88888  .d88b.  888d888
+  888 Y88b888 888 888 "88b "888     "88b     "Y88b. 888 "88b 888 d88" 888 d8P  Y8b 888P"
+  888  Y88888 888 888  888  888 .d888888       "888 888  888 888 888  888 88888888 888
+  888   Y8888 888 888  888  888 888  888 Y88b  d88P 888 d88P 888 Y88b 888 Y8b.     888
+  888    Y888 888 888  888  888 "Y888888  "Y8888P"  88888P"  888  "Y88888  "Y8888  888
+                          888                     888
+                         d88P                     888
+                       888P"                      888
+  
+  Copyright (c) Jan Keromnes 2011. No rights reserved (see License).
+  
+  PART 1: Description
+    NinjaSpider is a framework for Node.js which can build and deploy web pages.
+    
+  PART 2: Dependencies
+    Node.js - http://nodejs.org/
+    JSMin - http://crockford.com/javascript/jsmin.html
+    
+  PART 3: Instructions
+    
+  PART 4: License
+    This program is free software. It comes without any warranty, to the extent permitted
+    by applicable law. You can redistribute it and/or modify it under the terms of the Do
+    What The Fuck You Want To Public License, Version 2, as published by Sam Hocevar. See
+    http://sam.zoy.org/wtfpl/COPYING for more details.
+    
