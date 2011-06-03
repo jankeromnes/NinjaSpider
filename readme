@@ -29,7 +29,7 @@
     ScoutCamp - http://espadrine.github.com/ScoutCamp/
     
   PART 4: Instructions
-    Now how do I make a website?
+    (now how do I make a website?)
     - create your web pages and content in the source/ folder
     - 'make test' to test run a server (http://localhost/ is source/)
     - when stable, 'make' or 'make build' to build & deploy your website:
