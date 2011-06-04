@@ -31,7 +31,7 @@
   PART 4: Instructions
     (now how do I make a website?)
     - create your web pages and content in the source/ folder
-    - 'make test' to test run a server (http://localhost/ is source/)
+    - 'make test' to test run server.js (http://localhost/ is source/)
     - when stable, 'make' or 'make build' to build & deploy your website:
       this copies source/ to web/ and optimizes your content for the internet
     - 'make start' to start your server in background (localhost/ is web/)
